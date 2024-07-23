@@ -2,4 +2,6 @@ Supp_Table 1. Gene ontology enrichment analysis for biological processes. Genes 
 
 Supp_Table 2. KEGG pathway enrichment analysis. Genes involved in this analysis were the altered genes from the SVs in our cohort that were also associated with HNSCC. The total number of genes analysed was 255 and the count of genes enriched for each pathway is displayed in the third column. Statistical significance is indicated by the p-value, Bonferroni correction, Benjamini correction, and false discovery rate (FDR) shown in the respective columns. The data was obtained by the DAVID Functional Annotation Bioinformatics Microarray Analysis.
 
-Supp_Table 3. The list of pharmacogenes detected to be altered in a cohort of 10 HNSCC patients.
+Supp_Table 3. The list of pharmacogenes detected to be altered in a cohort of 10 HNSCC patients. A total of 255 genes were analyzed, and the listed genes are those altered by structural variations (SVs) in our cohort that are also associated with HNSCC. The gene list was obtained from the Genetic Association Database (GAD) subsection available within the DAVID Bioinformatics Analysis tool.
+
+
